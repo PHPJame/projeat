@@ -1,0 +1,195 @@
+/* sarabun-100normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Sarabun Thin'),
+    local('Sarabun-Thin'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-100.woff2?108cc6ecb7804159ac27adf45357f56c) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-100.woff?ff2aa7af7850422aa6707cf7382ed3ae) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-100italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Sarabun Thin Italic'),
+    local('Sarabun-ThinItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-100-italic.woff2?a1421e27d27b73344757f514bd4dd1dd) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-100-italic.woff?85e744522605e5f0897ad9a7db0b8138) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-200normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Sarabun ExtraLight'),
+    local('Sarabun-ExtraLight'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-200.woff2?e1515ece18494eaf996150344ca2f9af) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-200.woff?009d34e36b1a2f2b88f2ef7d8ecc3da8) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-200italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Sarabun ExtraLight Italic'),
+    local('Sarabun-ExtraLightItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-200-italic.woff2?aa197ef1f6104acdd10dcbc1acaebebe) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-200-italic.woff?bcd3bbbc83e8a3ccd7d4f718153509c6) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-300normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Sarabun Light'),
+    local('Sarabun-Light'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-300.woff2?5f15d741a179a632cc59687b3eb18d4c) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-300.woff?8485369c1df49c4f74148a3f97dd6d92) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-300italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Sarabun Light Italic'),
+    local('Sarabun-LightItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-300-italic.woff2?e29e76ef7e73c14d9974b2dca4895292) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-300-italic.woff?e9c10d86a08b2ce110427af031de409d) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-400normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sarabun Regular'),
+    local('Sarabun-Regular'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-400.woff2?1ce8d24daafa044bf439d8e7932b8b55) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-400.woff?26860ecfd5adc78510964d1282eea170) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-400italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Sarabun Italic'),
+    local('Sarabun-Italic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-400-italic.woff2?6660a63b295c481c8085b1a8b3fa11f3) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-400-italic.woff?d1324a6358b837346ee55bf31002d0b1) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-500normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Sarabun Medium'),
+    local('Sarabun-Medium'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-500.woff2?e3c0e36306a30b3163302a7a22962714) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-500.woff?1db4e067e7f968eaab88dd82a21da91f) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-500italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Sarabun Medium Italic'),
+    local('Sarabun-MediumItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-500-italic.woff2?0df14fe36ab8f83908d38707f741fa8b) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-500-italic.woff?ccbb404702d70500220fef6709199e15) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-600normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Sarabun SemiBold'),
+    local('Sarabun-SemiBold'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-600.woff2?5f027f70d1f53fdeff96e7089e8bd53c) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-600.woff?30da346e4824936ecdd7dcb29a4647d6) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-600italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Sarabun SemiBold Italic'),
+    local('Sarabun-SemiBoldItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-600-italic.woff2?544fa961b28d45219f7ca0de988002fb) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-600-italic.woff?b24ac22cc070aba514ad19fd6f12751e) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-700normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sarabun Bold'),
+    local('Sarabun-Bold'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-700.woff2?afc978b82ffffaeffd87ab719e626ebc) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-700.woff?6e36a5477094b5f0dafd8efcde3df760) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-700italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Sarabun Bold Italic'),
+    local('Sarabun-BoldItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-700-italic.woff2?35eaaaf9cf3412ca19d7f320cde27bd1) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-700-italic.woff?82fe2671b3c9fb7135e29825077d8709) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-800normal - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sarabun ExtraBold'),
+    local('Sarabun-ExtraBold'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-800.woff2?3e78bfe34eb6e6f8bd79086d77d2db94) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-800.woff?9c403456c9bce7281c20433f9d180788) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* sarabun-800italic - thai */
+@font-face {
+  font-family: 'Sarabun';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Sarabun ExtraBold Italic'),
+    local('Sarabun-ExtraBoldItalic'), 
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-800-italic.woff2?dea8f74b6672ec844e85a64cdc06affa) format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url(/fonts/vendor/@opensarabun_thai/files/sarabun-thai-800-italic.woff?e69d25a6717ed403046ec847a10ada20) format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+
